@@ -72,4 +72,15 @@ html {
   background-color: white;
   border-color: white;
  }
-
+  .card-title{
+    padding-left: 1em;
+  background-color: #DC3545;
+  color: white;
+ }
+ .card-text {
+  color: white;
+ }
+ .card-body {
+  background-color:#212529;
+  color: white;
+ }
